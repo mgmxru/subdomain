@@ -49,7 +49,7 @@
     "web3": "^0.18.2",
     "web3-utils": "^1.0.0-beta.48",
     "webpack": "^2.2.1",
-    "webpack-dev-server": "^2.9.3"
+    "webpack-dev-server": "^3.1.11"
   },
   "scripts": {
     "test": "truffle test",
